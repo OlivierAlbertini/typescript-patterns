@@ -1,0 +1,23 @@
+{
+  "name": "typescript-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/index.js",
+  "typings": "js/index",
+  "scripts": {
+    "start": "node js/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OlivierAlbertini/typescript-patterns.git"
+  },
+  "keywords": [
+    "patterns"
+  ],
+  "author": "Olivier Albertini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OlivierAlbertini/typescript-patterns/issues"
+  }
+}
